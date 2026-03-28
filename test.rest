@@ -1,0 +1,4 @@
+# Você pode trocar o GET para [POST,PUT,PATCH,DELETE,...]
+# Você pode trocar o status
+GET http://localhost:3000?status=200
+Content-Type: application/json
